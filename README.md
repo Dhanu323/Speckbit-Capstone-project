@@ -1,4 +1,4 @@
-#Readme
+# Readme
 
 ## Medistrom Project
 This is an  CMD ERP SOLUTION for Health Care Management Application System
@@ -23,4 +23,4 @@ $ cd source
 
 Run main.py to execute the progr
 
-$ python main.py
+$ python app.py
