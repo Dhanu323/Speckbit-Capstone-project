@@ -1,12 +1,13 @@
-# Requirements :
+ Requirements :
 
-## 1. installed Sublime Text Code Editor. Download here https://www.sublimetext.com/3
-## 2. installed Python 3. Download here.https://www.python.org/downloads/ (Download the latest version - 3.8.2, if you already have an older version installed, That's fine as well, you don't have to upgrade)
-## 3. after completing the above steps open the Navigate to the project folder open Command Prompt 
-### To install the Python library and the command line utility, run:
+1. installed Sublime Text Code Editor. Download here https://www.sublimetext.com/3
+2. installed Python 3. Download here.https://www.python.org/downloads/ (Download the latest version - 3.8.2, if you already have an older     version installed, That's fine as well, you don't have to upgrade)
+3. after completing the above steps open the Navigate to the project folder open Command Prompt 
+
+ To install the Python library and the command line utility, run:
 
 $pip install tabulate 
 
-###Install from pip for the latest stable release:
+Install from pip for the latest stable release:
 
 $pip install jsonpickle
